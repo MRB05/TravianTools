@@ -4,7 +4,7 @@ How to install userscripts
 
 2.) Click on any script you want to install:
 
-.[TravianTaskQueue](https://github.com/MRB05/TravianTools/blob/main/TravianTaskQueue/TravianTaskQueue.user.js)
+[TravianTaskQueue](https://github.com/MRB05/TravianTools/blob/main/TravianTaskQueue/TravianTaskQueue.user.js)
 
 [TravianWaveBuilder](https://github.com/MRB05/TravianTools/blob/main/TravianWaveBuilder/TravianWaveBuilder.user.js)
 
