@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name           Travian wave builder
-// @namespace      https://github.com/adipiciu/Travian-scripts
+// @namespace      https://github.com/MRB05/TravianTools
 // @description    Wave builder for Travian Legends and Travian Shores of War
 // @author         adipiciu (based on Travian wave builder 0.5 by Serj_LV)
 // @license        GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=56E2JM7DNDHGQ&item_name=Travian+wave+builder+script&currency_code=EUR
-// @match          https://*.travian.com/build.php*
+// @match          https://.travgame.com/login.php*
 
 // @version        2.10
 // ==/UserScript==
@@ -13,7 +13,7 @@
 function allInOneOpera () {
 
 var version = '2.10';
-var scriptURL = 'https://github.com/adipiciu/Travian-scripts';
+var scriptURL = 'https://github.com/MRB05/TravianTools';
 var defInterval = 200;
 var sLang = detectLanguage();
 var langStrings = ["Add attack", "Remove attack", "Move attack up", "Move attack down", "Add multiple attacks (1-12 attacks)", "Interval between attacks, in milliseconds. Minimum interval is 100 ms.", "Attack type", "Interval", "ms"];
