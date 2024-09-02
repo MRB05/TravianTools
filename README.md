@@ -1,18 +1,16 @@
 # TravianTools
 How to install userscripts
-You need an userscript manager like Tampermonkey, Violentmonkey or Greasemonkey (read the requirement details below).
+1.) You need an userscript manager like Tampermonkey, Violentmonkey or Greasemonkey (read the requirement details below).
 
-Click on any script you want to install:
-
-TravianResourceBarPlus
+2.) Click on any script you want to install:
 
 TravianTaskQueue
 
 TravianWaveBuilder
 
-The script will be opened in your userscript manager. Click Install.
+3.)The script will be opened in your userscript manager. Click Install.
 
-Requirements
+# Requirements
 Chrome/Opera/Edge/Chromium browsers: Tampermonkey or Violentmonkey
 
 Firefox: Violentmonkey, Greasemonkey or Tampermonkey
